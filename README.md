@@ -19,3 +19,11 @@ Besides managing academic details, the app includes desktop utilities like a not
 The application incorporates functions such as fee submission, timetable viewing, and various other tasks,      making it a robust university management system.
 
 ***********************************************************************************************************************************************************************************
+How to run :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**** install and setup netbeans and mysql after that create a java class called Jss.University inside the source package and paste the java files there.
+**** paste the icon file inside the source package .
+
+*****************************************************************************  NOTE  **********************************************************************************************
+
+This project is not completed yet and there will be changes coming soon so run the project inside netbeans only dont build the project ot create an executable .jar file .
